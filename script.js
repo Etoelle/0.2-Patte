@@ -44,20 +44,14 @@ document.querySelectorAll(".img-container a").forEach((link) => {
 
       console.log("Noms filtrés:", filteredNames);
 
-      if (filteredNames.length > 0) {
-        const randomName =
-          filteredNames[Math.floor(Math.random() * filteredNames.length)];
-        nameGenerated.textContent = randomName.name;
-        nameSignification.textContent = `Signification : ${randomName.meaning} `;
-        namePopularity.textContent = `Popularité : ${randomName.popularity} `;
-      } else {
-        nameGenerated.textContent =
-          "Aucun nom ne correspond aux critères sélectionnés.";
-        nameSignification.textContent = "";
-        namePopularity.textContent = "";
-      }
+      const randomName =
+        filteredNames[Math.floor(Math.random() * filteredNames.length)];
+      nameGenerated.textContent = randomName.name;
+      nameSignification.textContent = `Signification : ${randomName.meaning} `;
+      namePopularity.textContent = `Popularité : ${randomName.popularity} `;
     } catch (error) {
-      nameGenerated.textContent = "Erreur lors de la récupération des données.";
+      nameGenerated.textContent =
+        "Aucun nom ne correspond aux critères sélectionnés.";
       nameSignification.textContent = "";
       namePopularity.textContent = "";
     }
