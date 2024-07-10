@@ -1,0 +1,66 @@
+main {
+  height: min-content;
+}
+
+#names-list {
+  height: auto;
+  width: max-content;
+  min-width: 21rem;
+  margin: auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid var(--black);
+  border-collapse: collapse;
+}
+
+tr {
+  height: 3rem;
+}
+
+table {
+  background-color: var(--black);
+  text-align: center;
+  vertical-align: center;
+}
+
+caption {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.rowHead {
+  color: var(--light);
+}
+
+.impair {
+  background-color: var(--white);
+}
+
+.pair {
+  background-color: var(--light);
+}
+
+.img-container {
+  display: none;
+  position: fixed;
+}
+
+#btn-dog {
+  left: 0;
+}
+
+#btn-cat {
+  right: 0;
+}
+
+/* ! Desktop */
+@media screen and (min-width: 1140px) {
+  .img-container {
+    display: block;
+  }
+}
