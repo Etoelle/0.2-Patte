@@ -1,769 +1,764 @@
 {
   "petNames": [
     {
-      "id": 1,
       "name": "Ace",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Unité",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 2,
       "name": "Amber",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Résine fossile",
       "popularity": "populaire",
-      "animal": "mixte"
+      "animal": "chien"
     },
     {
-      "id": 3,
+      "name": "Amber",
+      "sexe": "female",
+      "meaning": "Résine fossile",
+      "popularity": "populaire",
+      "animal": "chat"
+    },
+    {
       "name": "Apollo",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Dieu du soleil et de la musique",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 4,
       "name": "Archie",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Courageux",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 5,
       "name": "Athena",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Déesse de la sagesse",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 6,
       "name": "Ava",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Oiseau",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 7,
       "name": "Bailey",
-      "gender": "mixte",
+      "sexe": "male",
       "meaning": "Responsable du domaine",
       "popularity": "très populaire",
       "animal": "chien"
     },
     {
-      "id": 8,
+      "name": "Bailey",
+      "sexe": "female",
+      "meaning": "Responsable du domaine",
+      "popularity": "très populaire",
+      "animal": "chien"
+    },
+    {
       "name": "Baxter",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Boulanger",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 9,
       "name": "Beau",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Beau",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 10,
       "name": "Bella",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Belle",
       "popularity": "très populaire",
-      "animal": "mixte"
+      "animal": "chien"
     },
     {
-      "id": 11,
       "name": "Biscuit",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Biscuit",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 12,
       "name": "Buddy",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Ami",
       "popularity": "très populaire",
       "animal": "chien"
     },
     {
-      "id": 13,
       "name": "Chester",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Camp de soldats",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 14,
       "name": "Chico",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Petit garçon",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 15,
       "name": "Chloé",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Verdoyant, en fleur",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 16,
       "name": "Cleo",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Gloire du père",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 17,
       "name": "Coco",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Noix de coco",
       "popularity": "populaire",
-      "animal": "mixte"
+      "animal": "chien"
     },
     {
-      "id": 18,
+      "name": "Coco",
+      "sexe": "female",
+      "meaning": "Noix de coco",
+      "popularity": "populaire",
+      "animal": "chat"
+    },
+    {
       "name": "Daisy",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Marguerite",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 19,
       "name": "Finn",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Blanc, lumineux",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 20,
       "name": "Ginger",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Gingembre",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 21,
       "name": "Hunter",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Chasseur",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 22,
       "name": "Jasper",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Trésor",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 23,
       "name": "Leo",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Lion",
       "popularity": "populaire",
-      "animal": "mixte"
+      "animal": "chat"
     },
     {
-      "id": 24,
       "name": "Lola",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Douleur",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 25,
       "name": "Lucy",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Lumière",
       "popularity": "très populaire",
-      "animal": "mixte"
+      "animal": "chat"
     },
     {
-      "id": 26,
+      "name": "Lucy",
+      "sexe": "female",
+      "meaning": "Lumière",
+      "popularity": "très populaire",
+      "animal": "chien"
+    },
+    {
       "name": "Luna",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Lune",
       "popularity": "très populaire",
       "animal": "chat"
     },
     {
-      "id": 27,
       "name": "Max",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Le plus grand",
       "popularity": "très populaire",
       "animal": "chien"
     },
     {
-      "id": 28,
       "name": "Milo",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Gentil, gracieux",
       "popularity": "populaire",
-      "animal": "mixte"
+      "animal": "chien"
     },
     {
-      "id": 29,
       "name": "Mimi",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Aimer, désirée",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 30,
       "name": "Misty",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Brumeux",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 31,
       "name": "Molly",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Étoile de la mer",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 32,
       "name": "Nala",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Succès",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 33,
       "name": "Nico",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Victoire du peuple",
       "popularity": "populaire",
-      "animal": "mixte"
+      "animal": "chat"
     },
     {
-      "id": 34,
+      "name": "Nico",
+      "sexe": "male",
+      "meaning": "Victoire du peuple",
+      "popularity": "populaire",
+      "animal": "chien"
+    },
+    {
       "name": "Oscar",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Lance des dieux",
       "popularity": "populaire",
-      "animal": "mixte"
+      "animal": "chat"
     },
     {
-      "id": 35,
+      "name": "Oscar",
+      "sexe": "male",
+      "meaning": "Lance des dieux",
+      "popularity": "populaire",
+      "animal": "chien"
+    },
+    {
       "name": "Oreo",
-      "gender": "mixte",
+      "sexe": "male",
       "meaning": "Biscuit noir et blanc",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 36,
       "name": "Prince",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Prince",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 37,
       "name": "Rocky",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Rocailleux, solide",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 38,
       "name": "Roxy",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Aube",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 39,
       "name": "Ruby",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Pierre précieuse rouge",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 40,
       "name": "Sasha",
-      "gender": "mixte",
+      "sexe": "male",
       "meaning": "Défenseur de l'humanité",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 41,
+      "name": "Sasha",
+      "sexe": "female",
+      "meaning": "Défenseur de l'humanité",
+      "popularity": "populaire",
+      "animal": "chat"
+    },
+    {
       "name": "Simba",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Lion",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 42,
       "name": "Sophie",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Sagesse",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 43,
       "name": "Tigger",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Tigre",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 44,
       "name": "Toby",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Dieu est bon",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 45,
       "name": "Zeus",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Dieu des dieux",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 46,
       "name": "Ziggy",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Victoire",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 47,
       "name": "Biscuit",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Biscuit",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 48,
       "name": "Blaze",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Flamme",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 49,
       "name": "Blue",
-      "gender": "mixte",
+      "sexe": "male",
       "meaning": "Bleu",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 50,
       "name": "Bolt",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Éclair",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 51,
       "name": "Boomer",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Personne bruyante",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 52,
       "name": "Bruno",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Brun",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 53,
       "name": "Bubbles",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Bulles",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 54,
       "name": "Butterscotch",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Caramel",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 55,
       "name": "Caesar",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Empereur",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 56,
       "name": "Candy",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Bonbon",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 57,
       "name": "Casper",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Trésor",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 58,
       "name": "Champ",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Champion",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 59,
       "name": "Chance",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Fortune",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 60,
       "name": "Charlie",
-      "gender": "mixte",
+      "sexe": "male",
       "meaning": "Libre",
       "popularity": "très populaire",
-      "animal": "mixte"
+      "animal": "chat"
     },
     {
-      "id": 61,
+      "name": "Charlie",
+      "sexe": "female",
+      "meaning": "Libre",
+      "popularity": "très populaire",
+      "animal": "chat"
+    },
+    {
+      "name": "Charlie",
+      "sexe": "male",
+      "meaning": "Libre",
+      "popularity": "très populaire",
+      "animal": "chien"
+    },
+    {
+      "name": "Charlie",
+      "sexe": "female",
+      "meaning": "Libre",
+      "popularity": "très populaire",
+      "animal": "chien"
+    },
+    {
       "name": "Chewy",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Mâcheur",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 62,
       "name": "Chip",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Morceau",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 63,
       "name": "Cinnamon",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Cannelle",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 64,
       "name": "Clara",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Claire",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 65,
       "name": "Clover",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Trèfle",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 66,
       "name": "Clyde",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Gentil",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 67,
       "name": "Coco",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Noix de coco",
       "popularity": "populaire",
-      "animal": "mixte"
+      "animal": "chien"
     },
     {
-      "id": 68,
+      "name": "Coco",
+      "sexe": "female",
+      "meaning": "Noix de coco",
+      "popularity": "populaire",
+      "animal": "chat"
+    },
+    {
       "name": "Comet",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Comète",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 69,
       "name": "Cooper",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Fabricant de tonneaux",
       "popularity": "très populaire",
       "animal": "chien"
     },
     {
-      "id": 70,
       "name": "Cosmo",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Univers",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 71,
       "name": "Dexter",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Habileté",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 72,
       "name": "Duke",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Chef de tribu",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 73,
       "name": "Echo",
-      "gender": "mixte",
+      "sexe": "male",
       "meaning": "Répercussion du son",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 74,
+      "name": "Echo",
+      "sexe": "female",
+      "meaning": "Répercussion du son",
+      "popularity": "peu populaire",
+      "animal": "chat"
+    },
+    {
       "name": "Eli",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Haut",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 75,
       "name": "Ellie",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Lumière",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 76,
       "name": "Elvis",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Sage",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 77,
       "name": "Ember",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Braise",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 78,
       "name": "Félix",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Heureux",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 79,
       "name": "Flash",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Éclair",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 80,
       "name": "Foxy",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Rusé",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 81,
       "name": "Frankie",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Libre",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 82,
       "name": "Freddy",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Puissant protecteur",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 83,
       "name": "Gizmo",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Appareil",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 84,
       "name": "Goldie",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Doré",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 85,
       "name": "Goofy",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Dingue",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 86,
       "name": "Gus",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Majestueux",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 87,
       "name": "Hank",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Dirigeant de maison",
       "popularity": "peu populaire",
       "animal": "chien"
     },
     {
-      "id": 88,
       "name": "Harley",
-      "gender": "mixte",
+      "sexe": "female",
       "meaning": "Lièvre des prés",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 89,
+      "name": "Harley",
+      "sexe": "male",
+      "meaning": "Lièvre des prés",
+      "popularity": "populaire",
+      "animal": "chien"
+    },
+    {
       "name": "Hazel",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Noisetier",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 90,
       "name": "Holly",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Houx",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 91,
       "name": "Jax",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Dieu a été gracieux",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 92,
       "name": "Joey",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Dieu ajoutera",
       "popularity": "populaire",
       "animal": "chien"
     },
     {
-      "id": 93,
       "name": "Kai",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Mer",
       "popularity": "populaire",
       "animal": "chat"
     },
     {
-      "id": 94,
       "name": "Kiki",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Double bonheur",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 95,
       "name": "Kira",
-      "gender": "femelle",
+      "sexe": "female",
       "meaning": "Lumineux",
       "popularity": "peu populaire",
       "animal": "chat"
     },
     {
-      "id": 96,
       "name": "Kobe",
-      "gender": "mâle",
+      "sexe": "male",
       "meaning": "Tortue",
       "popularity": "populaire",
       "animal": "chien"

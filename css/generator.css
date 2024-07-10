@@ -82,9 +82,13 @@ form {
   justify-content: space-evenly;
 }
 
+.result-generator {
+  height: 30%;
+}
+
 #name-generated {
   text-align: center;
-  font-size: x-large;
+  font-size: xx-large;
   font-weight: 700;
   color: var(--colored);
   filter: drop-shadow(0 0 0.6rem var(--dark));
