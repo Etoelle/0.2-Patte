@@ -22,7 +22,7 @@
 body {
   background: linear-gradient(120deg, var(--dark) 0%, var(--light) 100%);
   width: 100dvw;
-  height: 100dvh;
+  height: max-content;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;

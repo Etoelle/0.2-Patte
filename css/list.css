@@ -4,8 +4,8 @@ main {
 
 #names-list {
   height: auto;
-  width: max-content;
-  min-width: 21rem;
+  min-width: 48dvw;
+  max-width: 95dvw;
   margin: auto;
 }
 
@@ -22,8 +22,24 @@ tr {
 
 table {
   background-color: var(--black);
-  text-align: center;
   vertical-align: center;
+  text-align: center;
+}
+#colNoms {
+  column-width: 6rem;
+}
+
+#colSexe {
+  column-width: 3.5rem;
+}
+
+#colAnimal {
+  column-width: 3rem;
+}
+
+#colSignification {
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 caption {
@@ -47,7 +63,6 @@ caption {
 
 .img-container {
   display: none;
-  position: fixed;
 }
 
 #btn-dog {
@@ -56,11 +71,4 @@ caption {
 
 #btn-cat {
   right: 0;
-}
-
-/* ! Desktop */
-@media screen and (min-width: 1140px) {
-  .img-container {
-    display: block;
-  }
 }

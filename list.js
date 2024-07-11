@@ -25,9 +25,9 @@ document.addEventListener("DOMContentLoaded", async function () {
       tdMeaning.textContent = pet.meaning;
       tr.appendChild(tdMeaning);
 
-      const tdPopularity = document.createElement("td");
-      tdPopularity.textContent = pet.popularity;
-      tr.appendChild(tdPopularity);
+      // const tdPopularity = document.createElement("td");
+      // tdPopularity.textContent = pet.popularity;
+      // tr.appendChild(tdPopularity);
 
       tbody.appendChild(tr);
 

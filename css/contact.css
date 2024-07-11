@@ -1,0 +1,47 @@
+form {
+  width: 90dvw;
+  height: 40dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 1rem;
+}
+
+.input-field {
+  border-radius: 0.5rem;
+  border: none;
+  padding: 0.5rem;
+}
+
+input {
+  width: 15rem;
+  height: 1.5rem;
+  background-color: var(--white);
+}
+
+button {
+  width: 7rem;
+  height: 1.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+  background-color: var(--black);
+  color: var(--white);
+
+  &:hover {
+    background-color: var(--dark);
+    color: var(--colored);
+  }
+}
+
+textarea {
+  height: 10rem;
+  resize: none;
+  background-color: var(--white);
+}
+
+@media screen and (min-width: 992px) {
+  form {
+    width: 30dvw;
+  }
+}
